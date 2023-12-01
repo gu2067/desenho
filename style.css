@@ -1,0 +1,8 @@
+body{
+	background-image:url(download.jpeg) ;
+	text-align: center;
+}
+canvas{
+	border: 5px solid yellow;
+	background-color: yellow;
+}
